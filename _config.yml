@@ -1,0 +1,11 @@
+# Site settings
+title: To Kill A Mockingbird
+email: opope@me.com
+description: > 
+  
+baseurl: "/mockingbird" # the subpath of your site, e.g. /blog/
+url: "http://owebboy.com" # the base hostname & protocol for your site
+twitter_username: owebboy
+
+# Build settings
+markdown: kramdown
